@@ -56,7 +56,7 @@ I'm passionate about machine learning and evolutionary algorithms. I write code 
 ```
 📐 Linear Algebra:     matrices, vectors, eigenvalues
 📈 Calculus:           derivatives, gradients, optimization
-📉 Differential Equations: basic level
+📉 Differential Equations
 🎲 Probability Theory: distributions, Bayes
 📊 Mathematical Statistics: hypothesis testing, t-test, chi-square
 ```
