@@ -8,13 +8,13 @@ Second-year student in the **Data Science** program at Innopolis University.
 
 ---
 
-## 🔥 About Me
+##  About Me
 
 I'm passionate about machine learning and evolutionary algorithms. I write code in Python and Java, actively participate in case championships.
 
 ---
 
-## 🏆 Achievements & Competitions
+##  Achievements & Competitions
 
 | Year | Event | Achievement |
 |------|-------|------------|
@@ -24,7 +24,7 @@ I'm passionate about machine learning and evolutionary algorithms. I write code 
 
 ---
 
-## 🚀 My Projects
+##  My Projects
 
 ### 🎨 [EA Image Generator](https://github.com/Iandlama/EA-image-java)
 **Image generation using genetic algorithms**
@@ -35,37 +35,37 @@ I'm passionate about machine learning and evolutionary algorithms. I write code 
 
 ---
 
-## 🛠 Technical Skills
+##  Technical Skills
 
 ### Languages & Libraries
 ```
-🐍 Python:      Pandas, NumPy, Scikit-learn
-🤖 Machine Learning
-🔄 Evolutionary Algorithms: Genetic Algorithms, Evolutionary Strategies
-🗄️ SQL:         PostgreSQL
-☕ Java
+ Python:      Pandas, NumPy, Scikit-learn
+ Machine Learning
+ Evolutionary Algorithms: Genetic Algorithms, Evolutionary Strategies
+ SQL:         PostgreSQL
+ Java
 ```
 
 ### Tools & Platforms
 ```
-🔧 Tools:       Git
-📈 Visualization: Matplotlib, Seaborn, Plotly
+ Tools:       Git
+ Visualization: Matplotlib, Seaborn, Plotly
 ```
 
 ### Mathematical Background
 ```
-📐 Linear Algebra:     matrices, vectors, eigenvalues
-📈 Calculus:           derivatives, gradients, optimization
-📉 Differential Equations
-🎲 Probability Theory: distributions, Bayes
-📊 Mathematical Statistics: hypothesis testing, t-test, chi-square
+ Linear Algebra:     matrices, vectors, eigenvalues
+ Calculus:           derivatives, gradients, optimization
+ Differential Equations
+ Probability Theory: distributions, Bayes
+ Mathematical Statistics: hypothesis testing, t-test, chi-square
 ```
 
 ### Metrics & Evaluation
 ```
-📏 Classification: accuracy, precision, recall, F1
-📐 Regression:     MSE, MAE, RMSE
-🔬 A/B Testing:    t-test, chi-square, hypothesis testing
+ Classification: accuracy, precision, recall, F1
+ Regression:     MSE, MAE, RMSE
+ A/B Testing:    t-test, chi-square, hypothesis testing
 ```
 
 ---
@@ -92,4 +92,4 @@ I'm passionate about machine learning and evolutionary algorithms. I write code 
 
 ## 📫 Contact Me
 
-[(https://t.me/@AmaliaKharisova)
+📱 Telegram: @AmaliaKharisova
