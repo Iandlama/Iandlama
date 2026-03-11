@@ -45,7 +45,7 @@ I'm passionate about machine learning and evolutionary algorithms. I write code 
 
 ### Tools & Platforms
 
-• Tools:       Git
+• Tools:       Git  
 • Visualization: Matplotlib, Seaborn, Plotly
 
 
