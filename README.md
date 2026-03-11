@@ -35,38 +35,35 @@ I'm passionate about machine learning and evolutionary algorithms. I write code 
 
 ---
 
-##  Technical Skills
-
 ### Languages & Libraries
-
- Python:      Pandas, NumPy, Scikit-learn
- Machine Learning
- Evolutionary Algorithms: Genetic Algorithms, Evolutionary Strategies
- SQL:         PostgreSQL
- Java
+• **Python**: Pandas, NumPy, Scikit-learn  
+• **Machine Learning**  
+• **Evolutionary Algorithms**: Genetic Algorithms, Evolutionary Strategies  
+• **SQL**: PostgreSQL  
+• **Java**
 
 
 ### Tools & Platforms
-```
- Tools:       Git
- Visualization: Matplotlib, Seaborn, Plotly
-```
+
+• Tools:       Git
+• Visualization: Matplotlib, Seaborn, Plotly
+
 
 ### Mathematical Background
-```
- Linear Algebra:     matrices, vectors, eigenvalues
- Calculus:           derivatives, gradients, optimization
- Differential Equations
- Probability Theory: distributions, Bayes
- Mathematical Statistics: hypothesis testing, t-test, chi-square
-```
+
+• Linear Algebra:     matrices, vectors, eigenvalues
+• Calculus:           derivatives, gradients, optimization
+• Differential Equations
+• Probability Theory: distributions, Bayes
+• Mathematical Statistics: hypothesis testing, t-test, chi-square
+
 
 ### Metrics & Evaluation
-```
- Classification: accuracy, precision, recall, F1
- Regression:     MSE, MAE, RMSE
- A/B Testing:    t-test, chi-square, hypothesis testing
-```
+
+• Classification: accuracy, precision, recall, F1
+• Regression:     MSE, MAE, RMSE
+• A/B Testing:    t-test, chi-square, hypothesis testing
+
 
 ---
 
