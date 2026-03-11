@@ -92,4 +92,4 @@ I'm passionate about machine learning and evolutionary algorithms. I write code 
 
 ## 📫 Contact Me
 
-[![Telegram](https://t.me/@AmaliaKharisova)
+[(https://t.me/@AmaliaKharisova)
