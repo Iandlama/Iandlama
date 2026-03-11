@@ -75,8 +75,8 @@ I'm passionate about machine learning and evolutionary algorithms. I write code 
 | Platform | Course | Year |
 |----------|--------|------|
 | Kaggle | "Pandas" Course | 2025 |
-| Entrepreneurial Competencies Training | — | 2025 |
-| Financial Technologies and Innovations in Payments | — | May 2025 |
+| Entrepreneurial Competencies Training | | 2025 |
+| Financial Technologies and Innovations in Payments | | May 2025 |
 
 ---
 
