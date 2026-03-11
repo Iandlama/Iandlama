@@ -51,18 +51,18 @@ I'm passionate about machine learning and evolutionary algorithms. I write code 
 
 ### Mathematical Background
 
-• Linear Algebra:     matrices, vectors, eigenvalues
-• Calculus:           derivatives, gradients, optimization
-• Differential Equations
-• Probability Theory: distributions, Bayes
+• Linear Algebra:     matrices, vectors, eigenvalues  
+• Calculus:           derivatives, gradients, optimization  
+• Differential Equations  
+• Probability Theory: distributions, Bayes  
 • Mathematical Statistics: hypothesis testing, t-test, chi-square
 
 
 ### Metrics & Evaluation
 
-• Classification: accuracy, precision, recall, F1
-• Regression:     MSE, MAE, RMSE
-• A/B Testing:    t-test, chi-square, hypothesis testing
+• Classification: accuracy, precision, recall, F1  
+• Regression:     MSE, MAE, RMSE  
+• A/B Testing:    t-test, chi-square, hypothesis testing  
 
 
 ---
