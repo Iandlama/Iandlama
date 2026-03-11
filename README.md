@@ -38,13 +38,13 @@ I'm passionate about machine learning and evolutionary algorithms. I write code 
 ##  Technical Skills
 
 ### Languages & Libraries
-```
+
  Python:      Pandas, NumPy, Scikit-learn
  Machine Learning
  Evolutionary Algorithms: Genetic Algorithms, Evolutionary Strategies
  SQL:         PostgreSQL
  Java
-```
+
 
 ### Tools & Platforms
 ```
