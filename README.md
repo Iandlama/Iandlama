@@ -92,4 +92,4 @@ I'm passionate about machine learning and evolutionary algorithms. I write code 
 
 ## 📫 Contact Me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@AmaliaKharisova)
+[![Telegram](https://t.me/@AmaliaKharisova)
